@@ -3,14 +3,14 @@ Here is the trip form for the university students can enter the details and admi
 Difficulty
 Difficulty Level: Intermediate
 
-Languages
+#Languages
 Languages used:
 
 HTML
 CSS 
 PHP
 
-Built With
+#Built With
 Tools and resources used in this projects are:
 
 HTML
