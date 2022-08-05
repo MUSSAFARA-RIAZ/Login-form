@@ -23,7 +23,7 @@
         }
         #container h1,p{
             text-align: center;
-            font-family: 'Edu NSW ACT Foundation', cursive;
+            font-family: 'Edu NSW ACT Foundation', 'cursive';
         }
         input,textarea{
           width: 80%;
@@ -74,7 +74,7 @@
         <h1>Welcome to NED University Study Trip</h1>
         <p>Enter you details to confirm your participation</p>
         
-        <p id="con">Thank You For Submitting the form</p>
+        <p id="con">All fields are required</p>
         <form  method="post">
             <input type="text" name="name" placeholder="Enter your name">
             <input type="text" name="age" placeholder="Enter Your Age">
